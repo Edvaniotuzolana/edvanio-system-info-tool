@@ -1,4 +1,3 @@
-cat << EOF > README.md
 # Edvanio System Info Tool
 
 ## 📌 Descrição
@@ -61,4 +60,3 @@ GitHub: Edvânio Tuzolana
 
 Projeto educacional e de portfólio.
 
-EOF
